@@ -11,7 +11,17 @@
         }
     ],
     "require": {
-        "imaginaerum/magento-community": "1.x"
+        "imaginaerum/magento-community": "1.x",
+        "imaginaerum/magento-framework": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.packagist.com/imaginaerum/"
+        },
+        {
+            "packagist.org": false
+        }
+    ],
     "minimum-stability": "dev"
 }
