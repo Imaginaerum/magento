@@ -1,0 +1,16 @@
+{
+    "name": "imaginaerum/magento",
+    "description": "Magento Framework",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/Imaginaerum/magento",
+    "authors": [
+        {
+            "name": "Sylvain Kocet",
+            "homepage": "https://github.com/Imaginaerum/",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "dev"
+}
